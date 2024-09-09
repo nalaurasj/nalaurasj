@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there, meu nome é Ana.
+Estou estudando no Alura.
 
 <!--
 **nalaurasj/nalaurasj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
